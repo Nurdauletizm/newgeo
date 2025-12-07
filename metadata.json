@@ -1,0 +1,7 @@
+{
+  "name": "GeoTrail Tracker",
+  "description": "Real-time GPS tracking prototype that visualizes your walking path on an interactive map using Leaflet.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
